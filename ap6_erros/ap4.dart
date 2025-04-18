@@ -14,6 +14,7 @@ void main() {
     // Printando um possível erro
     print(e);
   }
+  print("Fim do programa");
 }
 
 // classe que implementa a classe abstrata arquivo
