@@ -1,4 +1,4 @@
-import 'package:untitled3/Models/ClasseDados.dart';
+import 'package:projetofinal/Models/ClasseDados.dart';
 
 //Funções de temperatura
 

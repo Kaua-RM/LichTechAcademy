@@ -1,7 +1,7 @@
 
 import 'ler_arquivos.dart';
 import '../Models/ClasseDados.dart';
-import 'package:untitled3/Utils/FuncoesAuxiliares.dart';
+import 'package:projetofinal/Utils/FuncoesAuxiliares.dart';
 
 Future<void> criarRelatorio(int opcao) async {
   List<Listas> arquivos = await lerArquivos();

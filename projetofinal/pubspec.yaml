@@ -1,5 +1,5 @@
-name: untitled3
-description: A starting point for Dart libraries or applications.
+name: projetofinal
+description: A sample command-line application.
 version: 1.0.0
 # repository: https://github.com/my_org/my_repo
 
@@ -9,7 +9,6 @@ environment:
 # Add regular dependencies here.
 dependencies:
   # path: ^1.8.0
-  ansi: ^0.4.2
   csv: ^5.0.0
   yaansi: ^1.2.0
 
